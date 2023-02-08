@@ -64,8 +64,10 @@
      </size>
     </property>
     <property name="styleSheet">
-     <string notr="true">border-image: url(:/SRC/SRC/transbg.png);
-border-radius: 20px;</string>
+     <string notr="true">display:block;
+border-image: url(:/SRC/SRC/transbg.png);
+border-radius: 20px;
+warp:no-warp;</string>
     </property>
     <property name="frameShape">
      <enum>QFrame::StyledPanel</enum>
