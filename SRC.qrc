@@ -1,38 +1,42 @@
 <RCC>
   <qresource prefix="SRC">
-    <file>SRC/transbg.png</file>
+    <file>SRC/Login Button In.png</file>
     <file>SRC/Logo.png</file>
     <file>SRC/30.png</file>
     <file>SRC/31.png</file>
-    <file>SRC/Add.png</file>
-    <file>SRC/Cancel.png</file>
-    <file>SRC/Confirm.png</file>
-    <file>SRC/Delete.png</file>
+    <file>SRC/About Button.png</file>
+    <file>SRC/Add Button.png</file>
+    <file>SRC/Cancel Button.png</file>
+    <file>SRC/Confirm Button.png</file>
+    <file>SRC/Delete Button.png</file>
     <file>SRC/Department (2).png</file>
     <file>SRC/Department Examination Management Application Light Version.png</file>
+    <file>SRC/Department Logo.png</file>
     <file>SRC/Department.png</file>
     <file>SRC/Document Generator (2).png</file>
+    <file>SRC/Document Generator Logo.png</file>
     <file>SRC/Document Generator.png</file>
     <file>SRC/Duty (2).png</file>
+    <file>SRC/Duty Logo.png</file>
     <file>SRC/Duty.png</file>
     <file>SRC/Faculty (2).png</file>
+    <file>SRC/Faculty Logo.png</file>
     <file>SRC/Faculty.png</file>
-    <file>SRC/Generate.png</file>
-    <file>SRC/Log In.png</file>
-    <file>SRC/Log Out.png</file>
-    <file>SRC/LOgin Text (2).png</file>
-    <file>SRC/LOgin Text (3).png</file>
-    <file>SRC/LOgin Text (4).png</file>
-    <file>SRC/LOgin Text (5).png</file>
-    <file>SRC/LOgin Text (6).png</file>
-    <file>SRC/LOgin Text.png</file>
-    <file>SRC/Login.png</file>
-    <file>SRC/Modify.png</file>
+    <file>SRC/Generate Button.png</file>
+    <file>SRC/Home Button.png</file>
+    <file>SRC/Home Logo.png</file>
+    <file>SRC/Log Button.png</file>
+    <file>SRC/Login Button.png</file>
+    <file>SRC/Logout Button.png</file>
+    <file>SRC/Modify Button.png</file>
     <file>SRC/Not Selected.png</file>
-    <file>SRC/Print.png</file>
+    <file>SRC/Print Button.png</file>
     <file>SRC/Reset (2).png</file>
     <file>SRC/Reset.png</file>
-    <file>SRC/Search.png</file>
+    <file>SRC/Search Button.png</file>
     <file>SRC/Selected.png</file>
+    <file>SRC/Settings Button.png</file>
+    <file>SRC/Sign in to continue Button.png</file>
+    <file>SRC/transbg.png</file>
   </qresource>
 </RCC>
